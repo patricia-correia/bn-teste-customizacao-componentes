@@ -26,7 +26,7 @@ body{
 
 .beon-showcase .beon-showcase__head:before{
   margin-top: 88px;
-  width: 1147px;
+  width: 90vw;
   height: 0px;
   left: 1px;
   border: 1px solid #5B2C86;
@@ -34,7 +34,7 @@ body{
 
 .beon-showcase__head-inner{
   position: absolute;
-  width: 882px;
+  width: 80vw;
   height: 25px;
   left: 2px;
   top: 51px;
@@ -148,4 +148,3 @@ body{
   left: 20px;
   bottom: 30px;
 }
-
