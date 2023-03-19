@@ -1,0 +1,151 @@
+body{
+  box-sizing: border-box;
+  margin: 0;
+  height: 857px;
+  padding: 0;
+  width: 1920px;
+}
+
+#beon-element-ca9cb6b5-75fb-4266-a547-b3f802cfff4d{
+  margin: 0 auto;
+  align-self: center;
+  width: 1478px;
+  height: 790px;
+  top: -513px;
+  left: -720px;
+}
+
+#tns1-mw {
+  margin-top: 56px;
+  margin-bottom: 12px;
+}
+
+#tns1-item0 {
+  margin-left: 24.38px;
+}
+
+.beon-showcase .beon-showcase__head:before{
+  margin-top: 88px;
+  width: 1147px;
+  height: 0px;
+  left: 1px;
+  border: 1px solid #5B2C86;
+}
+
+.beon-showcase__head-inner{
+  position: absolute;
+  width: 882px;
+  height: 25px;
+  left: 2px;
+  top: 51px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #5B2C86;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.beon-showcase .beon-showcase__head .beon-showcase__viewmore{
+  width: 154px;
+  height: 18px;
+  left: 990px;
+  top: 54px;
+  text-transform: uppercase;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: left;
+  color: #5B2C86;
+}
+
+.beon-interaction__item{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  height: 520px;
+  left: 0px;
+  top: 0px;
+  width: 256px;
+}
+
+.beon-showcase .beon-showcase__item-description {
+  position: absolute;
+  width: 218px;
+  height: 40px;
+  left: 20px;
+  top: 410px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 73%;
+  color:#5B2C86;
+  padding: 5px;
+}
+
+.beon-showcase__item-actions .beon-button--primary, .beon-button__label--details  {
+  position: relative;
+  margin-top: 125px;
+  color: #5B2C86;
+  background-color: #DFDFDF;
+}
+
+.beon-showcase .beon-showcase__item-description
+.beon-showcase__item-price.beon-showcase__item-price--from{
+  width: 215px;
+  height: 16px;
+  left: 21px;
+  top: 389px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 117%;
+  text-decoration-line: line-through;
+  color: #CCCCCC;
+}
+
+.beon-showcase .beon-showcase__item-description {
+  display: flex;
+  justify-content:flex-start;
+  width: 218px;
+  height: 40px;
+  left: 21px;
+  top: 389px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 117%;
+  color: #070707;
+}
+
+.beon-showcase .beon-showcase__item-title {
+  position: absolute;
+  width: 219px;
+  height: 34px;
+  left: 20px;
+  top: 347px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  color: #313131;
+}
+
+.beon-showcase__item-image{
+  position: relative;
+  top: 15px;
+  width: 218px;
+  height: 309px;
+  left: 20px;
+  bottom: 30px;
+}
+
